@@ -5,16 +5,25 @@ body {
 
 /*content container*/
 .content-container {
+
 	/*height: 450px;*/
 }
 
-/*beatbox header styling*/
-.beatbox-header {
-	font-size:  24px;
-	line-height: 7;
-	padding: 1rem;
-	border: 1.5px solid black;
-	text-align: center;
-	height: 200px;
-	width: 200px;
+/*sign up container styling*/
+.sign-container {
+	width: 500px;
+	height: 500px;
+	background-color: black;
+
+}
+/*graphics container*/
+.graphic-container {
+	width: 500px;
+	height: 500px;
+	background-color: beige;
+}
+
+/*signup button style*/
+#signUpModal {
+
 }
